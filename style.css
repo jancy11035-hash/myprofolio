@@ -1,4 +1,3 @@
-/* General Styles */
 
 * {
     margin: 0;
@@ -14,7 +13,6 @@ body {
     line-height: 1.6;
 }
 
-/* Navigation */
 
 nav {
     width: 100%;
@@ -51,7 +49,7 @@ nav ul li a:hover {
     color: #60a5fa;
 }
 
-/* Home */
+
 
 .home {
     min-height: 90vh;
@@ -95,7 +93,6 @@ nav ul li a:hover {
     margin-bottom: 30px;
 }
 
-/* Button */
 
 .button {
     display: inline-block;
@@ -113,7 +110,6 @@ nav ul li a:hover {
     transform: translateY(-3px);
 }
 
-/* Common Section */
 
 .section {
     padding: 80px 8%;
@@ -136,7 +132,6 @@ nav ul li a:hover {
     border-radius: 5px;
 }
 
-/* About */
 
 .about-box {
     max-width: 800px;
@@ -151,7 +146,7 @@ nav ul li a:hover {
     margin-bottom: 15px;
 }
 
-/* Skills */
+  
 
 .skills-section {
     background-color: #eef2ff;
@@ -180,7 +175,6 @@ nav ul li a:hover {
     margin-bottom: 10px;
 }
 
-/* Education */
 
 .education-box {
     max-width: 700px;
@@ -197,7 +191,6 @@ nav ul li a:hover {
     margin-bottom: 15px;
 }
 
-/* Contact */
 
 .contact-section {
     background-color: #eef2ff;
@@ -217,7 +210,6 @@ nav ul li a:hover {
     margin: 12px 0;
 }
 
-/* Footer */
 
 footer {
     background-color: #111827;
@@ -226,7 +218,6 @@ footer {
     padding: 20px;
 }
 
-/* Mobile Responsive Design */
 
 @media (max-width: 768px) {
 
